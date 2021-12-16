@@ -1,2 +1,2 @@
-# Gamificacion_SFII
+# Gamificacion
 Ejercicios de gamificación en SFII
